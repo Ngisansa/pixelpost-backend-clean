@@ -1,0 +1,7 @@
+.env
+node_modules
+server.zip
+package-lock.json
+.env
+keys/
+*.json
